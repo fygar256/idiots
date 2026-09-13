@@ -122,6 +122,8 @@ class Game:
         lines = [
             "Idiots Ver 1.0",
             "",
+            "Idiots means idiots.",
+            "",
             "Mission : kill all idiots to survive!",
             "Ｏ -- Idiots, chase player step by step.",
             "＃ -- Rock, die idiots and player when touched. ",
